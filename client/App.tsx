@@ -1,5 +1,5 @@
 import "./global.css";
-
+import "./dashboard.css"7
 import { Toaster } from "@/components/ui/toaster";
 import { createRoot } from "react-dom/client";
 import { Toaster as Sonner } from "@/components/ui/sonner";
@@ -12,7 +12,7 @@ import Dashboard from "./pages/Dashboard";
 import NotFound from "./pages/NotFound";
 import ProtectedRoute from "./components/ProtectedRoute";
 import PublicRoute from "./components/PublicRoute";
-
+import "C:/Users/win/Desktop/Babycollab_UD/client/global.css"
 const queryClient = new QueryClient();
 
 // Import your publishable key
