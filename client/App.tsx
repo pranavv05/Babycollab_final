@@ -12,7 +12,7 @@ import Dashboard from "./pages/Dashboard";
 import NotFound from "./pages/NotFound";
 import ProtectedRoute from "./components/ProtectedRoute";
 import PublicRoute from "./components/PublicRoute";
-import "C:/Users/win/Desktop/Babycollab_UD/client/global.css"
+
 const queryClient = new QueryClient();
 
 // Import your publishable key

@@ -34,7 +34,7 @@ import {
 } from "recharts";
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
-import "C:/Users/win/Documents/GitHub/Babycollab_final/client/dashboard.css"
+import "/client/dashboard.css"
 
 
 // Simple Character Fade-in Animation
