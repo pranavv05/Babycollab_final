@@ -1,5 +1,5 @@
 import "./global.css";
-import "./dashboard.css"7
+import "./dashboard.css"
 import { Toaster } from "@/components/ui/toaster";
 import { createRoot } from "react-dom/client";
 import { Toaster as Sonner } from "@/components/ui/sonner";
